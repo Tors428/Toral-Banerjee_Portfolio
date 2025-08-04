@@ -13,7 +13,7 @@ A curated portfolio highlighting my resume, research, and projects in data analy
 
 ##  Featured Technical Projects
 
-###  [DoodlesCare – iOS Wellness App for Dogs](https://github.com/toralbanerjee/DoodlesCare-iOS)
+###  [DoodlesCare – iOS Wellness App for Dogs](https://github.com/Tors428/DoodlesCare-iOS.git)
 A playful and wellness-focused iOS app that tracks pet health, routines, and medical records. It features an AI chatbot for meal/activity/product suggestions based on pet characteristics.
 - **Technologies:** Swift, SwiftUI, OpenAI API, UX Design
 - **Impact:** Improved user engagement through iterative updates driven by user feedback.
@@ -21,7 +21,7 @@ A playful and wellness-focused iOS app that tracks pet health, routines, and med
 
 ---
 
-###  [Customer Segmentation – Reliance BP Mobility](https://github.com/toralbanerjee/Customer-Segmentation-KMeans)
+###  [Customer Segmentation – Reliance BP Mobility](https://github.com/Tors428/Customer-Segmentation.git)
 Conducted RFM and K-Means clustering on 15,000+ fuel retail customers to optimize loyalty programs and regional pricing.
 - **Technologies:** Python, Scikit-learn, Tableau
 - **Impact:** Reduced churn by **10%** and boosted offer redemption by **15%**.
