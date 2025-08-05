@@ -2,7 +2,7 @@
 A curated portfolio highlighting my resume, research, and projects in data analytics, AI modeling, and user-centric application design. Includes internship work in customer segmentation, AI-driven wellness apps, and time-series forecasting.
 
 
- B.A. Computer Science @ Clark University '27 | 📊 Data Analytics & Modeling | 🤖 AI Researcher | 🧠 ML & Visualization 
+ B.A. Computer Science @ Clark University '27 |  Data Analytics & Modeling |  AI Researcher |  ML & Visualization 
 ---
 
 ##  Resume
@@ -28,13 +28,13 @@ Conducted RFM and K-Means clustering on 15,000+ fuel retail customers to optimiz
 
 ---
 
-## 🧠 Research Work
+##  Research Work
 
 ###  AI for Semiconductor Design
 Research Assistant under Prof. Ron Lin, focusing on applying large language models and multi-agent AI to intelligent chip design.
 
-- Lead author of a policy paper on AI transparency in healthcare, currently under submission to Nature.
----
+- Lead author of a policy paper on AI transparency in healthcare, currently under submission to Nature.(https://www.nature.com/articles/d41586-025-02480-3)
+----
 
 ## 💡 Skills & Tools
 
@@ -61,11 +61,11 @@ English (Fluent), Hindi/Bengali (Native), French (Basic)
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
-- 📧 Email: toralbanerjee@clarku.edu  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace this)*  
-- 🐙 [GitHub](https://github.com/toralbanerjee)
+-  Email: toralbanerjee@clarku.edu  
+-  [LinkedIn](https://www.linkedin.com/in/your-link) *(replace this)*  
+-  [GitHub](https://github.com/toralbanerjee)
 
 ---
 
