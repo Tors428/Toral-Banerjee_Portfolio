@@ -64,7 +64,7 @@ English (Fluent), Hindi/Bengali (Native), French (Basic)
 ##  Let's Connect
 
 -  Email: toralbanerjee2006@gmail.com 
--  [LinkedIn](linkedin.com/in/toral-banerjee-8804a9322) *(replace this)*  
+-  [LinkedIn] *(linkedin.com/in/toral-banerjee-8804a9322)*  
 
 
 ---
