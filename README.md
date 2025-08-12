@@ -2,7 +2,7 @@
 A curated portfolio highlighting my resume, research, and projects in data analytics, AI modeling, and user-centric application design. Includes internship work in customer segmentation, AI-driven wellness apps, and time-series forecasting.
 
 
- B.A. Computer Science @ Clark University '27 |  Data Analytics & Modeling |  AI Researcher |  ML & Visualization 
+ B.A. Computer Science @ Clark University '28 |  Data Analytics & Modeling |  AI Researcher |  ML & Visualization 
 ---
 
 ##  Resume
